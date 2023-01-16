@@ -8,6 +8,7 @@ jsonpickle==3.0.1
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.6
 networkx==2.6.3
+numpy==1.21.6
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
